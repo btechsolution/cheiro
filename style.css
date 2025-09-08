@@ -6,7 +6,7 @@
 
 :root {
   --text-color: #61301e;
-  --bg-url: url(./assets/1mobile.jpg); /*mobile*/
+  --bg-url: url(./assets/bg-mobile.jpg); /*mobile*/
   --stroke-color: #e6bab9;
   --surface-color: #B7946E;
   --surface-color-hover: rgba(0, 0, 0, 0.02);
